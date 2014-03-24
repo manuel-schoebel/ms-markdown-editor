@@ -2,7 +2,7 @@
   "packages": {
     "ace-embed": "0.0.4",
     "marked": {
-        "path": "../marked"
+      "git": "https://github.com/DerMambo/marked.git"
     }
   }
 }
