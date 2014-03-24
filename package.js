@@ -19,6 +19,6 @@ Package.on_use(function(api){
     'client/markdown_editor.html',
     'client/markdown_editor.coffee',
     'client/handlebars_helper.coffee',
-    'client/markdown.import.less'
+    'client/markdown.less'
   ], 'client');
 });
