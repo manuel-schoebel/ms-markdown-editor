@@ -1,0 +1,8 @@
+{
+  "packages": {
+    "ace-embed": "0.0.4",
+    "marked": {
+        "path": "../marked"
+    }
+  }
+}
